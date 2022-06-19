@@ -1,1 +1,2 @@
 # Covid-19-Data-Analysis
+This project takes the COVID 19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country. Additionally there is another dataset(worldwide_happiness_report) which consists of various life factors, scored by the people living in each country around the globe. The motive of this project is to see if there is any correlation between the spread of the virus in a country and the level of happiness of its residents. 
